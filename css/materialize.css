@@ -49,9 +49,6 @@ h1 {
    ========================================================================== */
 img {
   border: 0;
-  image-rendering: auto;
-  image-rendering: crisp-edges;
-  image-rendering: pixelated;
 }
 /* Grouping content
    ========================================================================== */
