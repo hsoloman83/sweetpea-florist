@@ -498,7 +498,7 @@ hr{
   height: calc(100% + 60px);
   height: -moz-calc(100%);
   padding-bottom: 60px;
-  background-color: rgba(127, 216, 190, 0.7);
+  background-color: rgba(127, 216, 190, 0.9);
   z-index: 999;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
